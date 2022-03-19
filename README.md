@@ -27,3 +27,8 @@ Python installed
 A computer running the Macos operating system.
 A Discord server.
 A Discord Webhook
+
+Credits: 🧳
+Kumarchino (Creator)
+Feel free to edit and improve this token grabber.
+In the future their will be support for the Windows and the Linux operating system aswell
