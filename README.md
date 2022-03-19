@@ -1,4 +1,3 @@
-.![images](https://user-images.githubusercontent.com/100237364/159133466-7eb9a1b6-911c-448e-9dd1-e74842290fc5.jpeg)
 
 Here is a Discord token grabber created in Python,
 This version of the grabber only support the macos operating system.
