@@ -1,3 +1,5 @@
+# Discord-Mac-Token-Grabber
+
 Information: 📕
 This is a Discord token grabber written in Python.
 This token grabber only supports the Macos operating system.
