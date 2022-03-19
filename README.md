@@ -1,3 +1,5 @@
+.![images](https://user-images.githubusercontent.com/100237364/159133466-7eb9a1b6-911c-448e-9dd1-e74842290fc5.jpeg)
+
 Here is a Discord token grabber created in Python,
 This version of the grabber supports windows, mac, and linux operating systems.
 This is my very first Github Project
@@ -14,4 +16,4 @@ Features: ⚙
 Send Informations via discord webhook
 Checks for Discord (Canary, PTB) tokens, Google Chrome, Brave Browser, Yandex Browser and Opera Browser
 Checks whether the token(s) is valid before sending it to avoid disabled tokens
-Available for Macos, Windows, and Linux operating systems.
+Available for Macos, Windows, and Linux operating systems
