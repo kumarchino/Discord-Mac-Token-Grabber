@@ -1,4 +1,4 @@
-                                                           Discord - Token - Grabber - Macos
+                                                       Discord - Token - Grabber - Macos
 
 
 Here is a Discord token grabber created in Python,
