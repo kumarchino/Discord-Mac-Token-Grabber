@@ -1,6 +1,3 @@
-                                                       Discord - Token - Grabber - Macos
-
-
 Here is a Discord token grabber created in Python,
 This version of the grabber only support the macos operating system.
 This is my very first Github Project
