@@ -24,11 +24,7 @@ The use of this software on any device that is not your own is highly discourage
 Creators shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
 (i) your access to this resource and/or inability to access this resource (ii) any conduct or content of any third party referenced by this resource, including without limitation, any defamatory, offensive or illegal conduct or other users or third parties (iii) any content obtained from this resource.
  
-Requirements: 🖥️
-Python installed
-A computer running the Macos operating system.
-A Discord server.
-A Discord Webhook
+Requirements: 🖥️Python installedA computer running the Macos operating system.A Discord server.A Discord Webhook
 
 Credits: 🧳
 Kumarchino (Creator)
