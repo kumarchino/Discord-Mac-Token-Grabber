@@ -30,6 +30,11 @@ A computer running the Macos operating system
 .A Discord server.
 A Discord Webhook
 
+Donate - Bitcoin Address - 3Jty4GmPehqp7Fggrq5TTHi7i3SYUomL5Z
+       - Ethernium Address - 0x780Dccf56E82d190D66ea707d8AB1a762E5A7b76	
+       - Lithium Address - MStJCfnwXvLEbeUZaYNuXurk1fyJ3Twr5T 	
+       - Dogecoin address - DUMnoZnXLYFNnwcoZ7XEsQLCUpBEGva3n7 	
+
 Credits: 🧳
 Kumarchino (Creator)
 Feel free to edit and improve this token grabber.
